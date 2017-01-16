@@ -1,0 +1,49 @@
+{
+    "name": "less-compile-file",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "https://piecioshka.pl/"
+    },
+    "scripts": {
+        "test": "node test/unit.js",
+        "clear": "rm -rf demo/dist/ node_modules/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/piecioshka/less-compile-file.git"
+    },
+    "dependencies": {
+        "debug": "^2.6.0",
+        "fs-extra": "^2.0.0",
+        "glob": "^7.1.1",
+        "less": "^2.7.2"
+    },
+    "files": [
+        "index.js",
+        "package.json",
+        "README.md"
+    ],
+    "keywords": [
+        "compile",
+        "compiler",
+        "compiled",
+        "parse",
+        "parser",
+        "parsed",
+        "css",
+        "style",
+        "styles",
+        "file",
+        "files",
+        "less",
+        "lessc",
+        "preprocesor",
+        "directory",
+        "folder",
+        "file system"
+    ],
+    "main": "./index.js"
+}
