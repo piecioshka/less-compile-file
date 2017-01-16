@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/less-compile-file.svg)](https://badge.fury.io/js/less-compile-file)
 ![](https://img.shields.io/npm/dt/less-compile-file.svg)
 
-> :hammer: Compiling CSS file to LESS.
+> :hammer: Compiling LESS file to CSS
 
 ## Usage
 
@@ -29,7 +29,7 @@ compiler('file.less', 'file.css')
 ## History
 
 I use [`less-compiler`](https://www.npmjs.com/package/less-compiler) package 
-for compiling CSS file, but I have an error: 
+for compiling LESS file, but I have an error: 
 
 ```
 node_modules/less/lib/less/parser/parser.js:117
