@@ -1,18 +1,19 @@
-# less-compile-file ([npm](https://www.npmjs.com/package/less-compile-file))
+# less-compile-file
 
 [![npm version](https://badge.fury.io/js/less-compile-file.svg)](https://badge.fury.io/js/less-compile-file)
-![](https://img.shields.io/npm/dt/less-compile-file.svg)
+[![downloads count](https://img.shields.io/npm/dt/less-compile-file.svg)](https://www.npmjs.com/~piecioshka)
+[![dependencies](https://david-dm.org/piecioshka/less-compile-file.svg)](https://github.com/piecioshka/less-compile-file)
 
-> :hammer: Compiling LESS file to CSS
+:hammer: Compiling LESS file to CSS
 
 ## Usage
 
-```
-$ npm install less-compile-file
+```bash
+npm install less-compile-file
 ```
 
 ```javascript
-let compiler = require('less-compile-file');
+const compiler = require('less-compile-file');
 
 compiler('file.less', 'file.css')
     .catch((err) => {
@@ -46,16 +47,16 @@ TypeError: Cannot read property 'contents' of undefined
 
 ## Development
 
-```
-$ npm install
-$ npm test
+```bash
+npm install
+npm test
 ```
 
 Try run file (which compile CSS files) with [debug](https://www.npmjs.com/package/debug)
 flag in example:
 
-```
-$ DEBUG=* node style-compiler.js
+```bash
+DEBUG=* node style-compiler.js
 ```
 
 ## License
