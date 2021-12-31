@@ -1,7 +1,7 @@
 # less-compile-file
 
 [![npm version](https://badge.fury.io/js/less-compile-file.svg)](https://badge.fury.io/js/less-compile-file)
-[![downloads count](https://img.shields.io/npm/dt/less-compile-file.svg)](https://www.npmjs.com/~piecioshka)
+[![downloads count](https://img.shields.io/npm/dt/less-compile-file.svg)](https://www.npmjs.com/package/less-compile-file)
 
 :hammer: Compiling LESS file to CSS
 
