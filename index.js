@@ -2,7 +2,6 @@
 
 let path = require('path');
 let fs = require('fs-extra');
-let glob = require('glob');
 let less = require('less');
 let debug = {
     log: require('debug')('less-compile-file')

@@ -1,7 +1,9 @@
 # less-compile-file
 
+[![node version](https://img.shields.io/node/v/less-compile-file.svg)](https://www.npmjs.com/package/less-compile-file)
 [![npm version](https://badge.fury.io/js/less-compile-file.svg)](https://badge.fury.io/js/less-compile-file)
 [![downloads count](https://img.shields.io/npm/dt/less-compile-file.svg)](https://www.npmjs.com/package/less-compile-file)
+[![license](https://img.shields.io/npm/l/less-compile-file.svg)](https://www.npmjs.com/package/less-compile-file)
 
 :hammer: Compiling LESS file to CSS
 
@@ -28,8 +30,8 @@ compiler('file.less', 'file.css')
 
 ## History
 
-I use [`less-compiler`](https://www.npmjs.com/package/less-compiler) package 
-for compiling LESS file, but I have an error: 
+I use [`less-compiler`](https://www.npmjs.com/package/less-compiler) package
+for compiling LESS file, but I have an error:
 
 ```
 node_modules/less/lib/less/parser/parser.js:117
