@@ -6,7 +6,7 @@
 [![license](https://img.shields.io/npm/l/less-compile-file.svg)](https://piecioshka.mit-license.org)
 [![github-ci](https://github.com/piecioshka/less-compile-file/actions/workflows/testing.yml/badge.svg)](https://github.com/piecioshka/less-compile-file/actions/workflows/testing.yml)
 
-:hammer: Compiling LESS file to CSS
+🔨 Compiling LESS file to CSS
 
 ## Usage
 
