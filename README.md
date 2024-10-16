@@ -4,6 +4,7 @@
 [![npm version](https://badge.fury.io/js/less-compile-file.svg)](https://badge.fury.io/js/less-compile-file)
 [![downloads count](https://img.shields.io/npm/dt/less-compile-file.svg)](https://www.npmjs.com/package/less-compile-file)
 [![license](https://img.shields.io/npm/l/less-compile-file.svg)](https://piecioshka.mit-license.org)
+[![github-ci](https://github.com/piecioshka/less-compile-file/actions/workflows/testing.yml/badge.svg)](https://github.com/piecioshka/less-compile-file/actions/workflows/testing.yml)
 
 :hammer: Compiling LESS file to CSS
 
