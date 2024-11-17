@@ -12,15 +12,15 @@
         "test": "node test/unit.js",
         "clear": "rm -rf demo/dist/ node_modules/"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+ssh://git@github.com/piecioshka/less-compile-file.git"
-    },
     "dependencies": {
         "debug": "^2.6.0",
         "fs-extra": "^2.0.0",
         "glob": "^7.1.1",
         "less": "^2.7.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/piecioshka/less-compile-file.git"
     },
     "files": [
         "index.js",
