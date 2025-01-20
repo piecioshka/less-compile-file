@@ -1,6 +1,6 @@
 {
     "name": "less-compile-file",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "🔨 Compiling LESS file to CSS",
     "license": "MIT",
     "author": {
